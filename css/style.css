@@ -1,0 +1,68 @@
+:root {
+    --main-bg-color-1: #db5410;
+    --main-bg-color-2: #fac000;
+    --main-bg-color-3:#1fffbd ;
+    --main-bg-color-4: #4da0db;
+    --main-bg-color-5:#f3b8f2 ;
+    --main-bg-color-6: #550783;
+
+    --main-txt-color-1: #c2bdbdf1;
+    --main-txt-color-2: ;
+    --main-txt-color-3: rgb(16, 90, 16);
+    --main-txt-color-4: #09053d;
+    --main-txt-color-5: #3d0442;
+    --main-txt-color-6: #fcf6a0;
+
+
+}
+
+body {
+    padding: 30px;
+    text-align: center;
+    font-size: 24px;
+}
+
+.container1 {
+    padding: 20px;
+    height: 200px;
+    background-color:var(--main-bg-color-1);
+    color: var(--main-txt-color-1);
+    margin: 24px;
+}
+
+.container2 {
+    padding: 20px;
+    height: 200px;
+    background-color:var(--main-bg-color-2);
+    color: var(--main-txt-color-1);
+    margin: 24px;
+}
+
+.container3 {
+    padding: 20px;
+    height: 200px;
+    background-color:var(--main-bg-color-3);
+    color: var(--main-txt-color-3);
+    margin: 24px;
+}
+.container4 {
+    padding: 20px;
+    height: 200px;
+    background-color:var(--main-bg-color-4);
+    color: var(--main-txt-color-4);
+    margin: 24px;
+}
+.container5 {
+    padding: 20px;
+    height: 200px;
+    background-color:var(--main-bg-color-5);
+    color: var(--main-txt-color-5);
+    margin: 24px;
+}
+.container6 {
+    padding: 20px;
+    height: 200px;
+    background-color:var(--main-bg-color-6);
+    color: var(--main-txt-color-6);
+    margin: 24px;
+}
