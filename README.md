@@ -9,8 +9,8 @@ People with deuteranomaly and protanomaly are collectively known as red-green co
 so you can probably imagen thet some color combinations will not work for them if the contrast is not 
 good enough. If the background and the text dose not have a big enough contrast, they cant read the text. 
 
-I often use https://contrastchecker.com/ to check my color. But you can also inspect element on the website, and 
-(/img/Screenshot 2021-03-03 at 21.06.54.png)
+I often use https://contrastchecker.com/ to check my color.
+But you can also inspect element on the website and click on the element you want to se the contrast for. 
 
 Make to color combinations that vil Fail the AA, when you run it in a color contast checker 
 
